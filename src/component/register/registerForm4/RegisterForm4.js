@@ -1,7 +1,6 @@
 import React from 'react'
 import { Icon, List } from 'semantic-ui-react'
 import ProgressBarLevel from '../progressBar/ProgressBarLevel'
- import { Link } from 'react-router-dom';
 const RegisterForm4 = () => {
 
 
