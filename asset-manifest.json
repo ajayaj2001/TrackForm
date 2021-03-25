@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TrackForm/static/css/main.55cef0be.chunk.css",
+    "main.css": "/TrackForm/static/css/main.8c08b2d2.chunk.css",
     "main.js": "/TrackForm/static/js/main.fdf95d33.chunk.js",
     "main.js.map": "/TrackForm/static/js/main.fdf95d33.chunk.js.map",
     "runtime-main.js": "/TrackForm/static/js/runtime-main.4261c172.js",
@@ -10,7 +10,7 @@
     "static/js/2.f2a52bb5.chunk.js.map": "/TrackForm/static/js/2.f2a52bb5.chunk.js.map",
     "index.html": "/TrackForm/index.html",
     "static/css/2.a5e7ecbc.chunk.css.map": "/TrackForm/static/css/2.a5e7ecbc.chunk.css.map",
-    "static/css/main.55cef0be.chunk.css.map": "/TrackForm/static/css/main.55cef0be.chunk.css.map",
+    "static/css/main.8c08b2d2.chunk.css.map": "/TrackForm/static/css/main.8c08b2d2.chunk.css.map",
     "static/js/2.f2a52bb5.chunk.js.LICENSE.txt": "/TrackForm/static/js/2.f2a52bb5.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/TrackForm/static/media/outline-icons.ddae9b1b.woff",
     "static/media/sideImage.8ef291c3.jpg": "/TrackForm/static/media/sideImage.8ef291c3.jpg"
@@ -19,7 +19,7 @@
     "static/js/runtime-main.4261c172.js",
     "static/css/2.a5e7ecbc.chunk.css",
     "static/js/2.f2a52bb5.chunk.js",
-    "static/css/main.55cef0be.chunk.css",
+    "static/css/main.8c08b2d2.chunk.css",
     "static/js/main.fdf95d33.chunk.js"
   ]
 }
