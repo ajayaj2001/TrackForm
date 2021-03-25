@@ -23,7 +23,14 @@ const RegisterForm4 = () => {
                 <List.Item>For contact call 142-4234-234</List.Item>
                 </List.List>
                 </List.Item>
-                <button type='submit' className="registerform__button finalSubmitButton" ><Link to="/form2" style={{color:'white'}}> Home <Icon name="arrow right" /></Link>  </button>
+                <button 
+                type='submit' 
+                className="registerform__button finalSubmitButton" 
+                onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href='https://ajayaj2001.github.io/event-management/';
+                    }}
+                > Home</button>
              </List>
             
 
